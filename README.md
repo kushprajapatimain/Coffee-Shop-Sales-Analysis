@@ -110,9 +110,9 @@ The dataset used for this project contains sales transactions, store locations, 
 The interactive Excel dashboard provides complete visibility of sales KPIs, trends, and store performance.
 It allows users to filter data by **Month, Day, and Product Category** for deeper exploration.
 
-![Coffee Shop Dashboard](https://github.com/user-attachments/assets/your-dashboard-image-link.png)
+![Coffee Shop Dashboard](https://github.com/kushprajapatimain/Coffee-Shop-Sales-Analysis/blob/main/Screenshot%202025-11-07%20165823.png)
 
-> *(Replace the link above with your actual dashboard image once uploaded to GitHub.)*
+
 
 ---
 
