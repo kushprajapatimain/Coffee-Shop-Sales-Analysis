@@ -166,12 +166,13 @@ You can view the complete project here:
 
 ---
 
-## 👤 Author & Contact
+## 👤 Author & Contact  
 
-**Author:** Kush Prajapati
-**GitHub:** [https://github.com/kushprajapatimain](https://github.com/kushprajapatimain)
-**Email:** *[kushprajapatimain@gmail.com]*
-**LinkedIn:** *[www.linkedin.com/in/kush-prajapati-03334937a]*
+**Author:** Kush Prajapati  
+**GitHub:** [https://github.com/kushprajapatimain](https://github.com/kushprajapatimain)  
+**Email:** [kushprajapatimain@gmail.com](mailto:kushprajapatimain@gmail.com)  
+**LinkedIn:** [www.linkedin.com/in/kush-prajapati-03334937a](https://www.linkedin.com/in/kush-prajapati-03334937a)  
+
 
 > Feel free to connect for feedback, collaboration, or professional discussion.
 
