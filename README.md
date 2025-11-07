@@ -168,10 +168,10 @@ You can view the complete project here:
 
 ## 👤 Author & Contact
 
-**Author:** Premnarayan Prajapati
+**Author:** Kush Prajapati
 **GitHub:** [https://github.com/kushprajapatimain](https://github.com/kushprajapatimain)
-**Email:** *[Add your email here]*
-**LinkedIn:** *[Add your LinkedIn profile link]*
+**Email:** *[kushprajapatimain@gmail.com]*
+**LinkedIn:** *[www.linkedin.com/in/kush-prajapati-03334937a]*
 
 > Feel free to connect for feedback, collaboration, or professional discussion.
 
